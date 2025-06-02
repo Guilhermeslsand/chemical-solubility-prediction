@@ -75,7 +75,7 @@ O notebook `homework2_teste.ipynb` contém todas as etapas descritas no artigo:
 ## 📁 Arquivos
 
 - `HW02___2024_2.pdf`: artigo acadêmico completo em PDF  
-- `homework2_teste.ipynb`: notebook com todas as análises, modelos e gráficos
+- `Analise`: notebook com todas as análises, modelos e gráficos
 - `Datasets`: Todos os datasets usados.
 
 ---
